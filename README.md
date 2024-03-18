@@ -140,13 +140,7 @@ Execute the program using runserver command.
 </html>
 ```
 
-
-
-<<<<<<< HEAD
-
-=======
->>>>>>> e264a788eaf2f8cd728f3c75c1cee79844228a28
-## OUTPUT
+### OUTPUT
 
 ![alt text](<Screenshot 2024-03-18 104518.png>)
 
